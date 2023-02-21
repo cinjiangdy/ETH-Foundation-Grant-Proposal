@@ -79,7 +79,7 @@ Erik Zhang – Researcher on the project, did crypto research at a hedge fund in
 Penn Blockchain/FranklinDAO is the student-run Blockchain organisation at the University of Pennsylvania. Our team regularly publishes research, investment theses, and governance recommendations and hosts events promoting the adoption of Web3. Many of our past & present leadership, both undergraduate and graduate students, have been inspired by their involvement in FranklinDAO to work on Web3 ventures full-time and are prominently involved in the ecosystem.
 
 Our research team comprises students from the School of Engineering and Wharton School with diverse interests in Web3. This past semester, we published long-form pieces on crypto regulation, the thesis behind app chains versus rollups, under-collateralised lending, maximum extractable value, and decentralised identity. We have also become more involved with promoting our work to the mainstream public by recording podcasts and social media clips.
-You can read some of our past works [here](franklindao.substack.com).
+You can read some of our past works [here](https://franklindao.substack.com/).
 
 # Methodology
 
